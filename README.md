@@ -1,3 +1,3 @@
 # Web projects
 
-[museum](https://github.com/khramov23/web/museum/)
+[museum](https://khramov23.github.io/web/museum/)
